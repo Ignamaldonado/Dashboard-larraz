@@ -16,9 +16,6 @@ import SmallCardProducts from './SmallCardProducts'
 
 function ContentRowTop(){
 
-    let userLength = 0
-    let productsLength = 0
-
     const userKey = 'http://localhost:5000/api/users'
     const productKey = "http://localhost:5000/api/products"
    
