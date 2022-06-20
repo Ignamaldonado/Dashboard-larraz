@@ -1,0 +1,26 @@
+.last-product-center {
+    margin: 0 auto
+}
+
+.sidebar-color {
+   background-color: #6200ff
+}
+
+.h3-text {
+margin:10px auto 0 auto;
+}
+
+.app-center {
+    justify-content: center
+}
+
+.logo-cont {
+    margin-top: 40px;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.dashboard-link {
+    margin-top: 30px;
+}
